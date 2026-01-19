@@ -37,8 +37,8 @@ https://nishazexports.netlify.app/
 
 ## 📦 Installation
 
-1. Clone the repository:  
-   git clone <your-github-repository-url>
+1. Clone the repository:
+git clone https://github.com/singavidarshan/Nishaz-Exports.git
 
 2. Navigate to the project directory  
 3. Install the dependencies : 
@@ -49,7 +49,7 @@ https://nishazexports.netlify.app/
 
 ## 👨‍💻 Author
 
-** Darshan Singavi ** 
+**Darshan Singavi** 
 - GitHub: [@singavidarshan](https://github.com/singavidarshan)
 - LinkedIn: [Darshan-Singavi](https://linkedin.com/in/darshan-singavi)
 
